@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "891367936357",
+    "project_id": "waqasdb-25239",
+    "storage_bucket": "waqasdb-25239.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891367936357:android:d1e9a92ee194edeb99d18c",
+        "android_client_info": {
+          "package_name": "com.jailmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891367936357-6k0ouma9p077f7jv45bqo5ejkbbh9vqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR-n3rKEfgXCnsp_5qwh97uOk1wbnw37I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891367936357-6k0ouma9p077f7jv45bqo5ejkbbh9vqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
